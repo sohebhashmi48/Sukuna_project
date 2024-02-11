@@ -1,5 +1,3 @@
-Certainly! Below is a README template based on the code you provided:
-
 ```
 # Jujutsu Kaisen Sukuna Animated Landing Page
 
